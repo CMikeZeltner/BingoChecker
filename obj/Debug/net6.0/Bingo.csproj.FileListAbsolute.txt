@@ -1,0 +1,15 @@
+C:\Users\12152\Documents\Projects\csharp\Bingo\bin\Debug\net6.0\Bingo.exe
+C:\Users\12152\Documents\Projects\csharp\Bingo\bin\Debug\net6.0\Bingo.deps.json
+C:\Users\12152\Documents\Projects\csharp\Bingo\bin\Debug\net6.0\Bingo.runtimeconfig.json
+C:\Users\12152\Documents\Projects\csharp\Bingo\bin\Debug\net6.0\Bingo.dll
+C:\Users\12152\Documents\Projects\csharp\Bingo\bin\Debug\net6.0\Bingo.pdb
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\Bingo.csproj.AssemblyReference.cache
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfoInputs.cache
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfo.cs
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\Bingo.dll
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\refint\Bingo.dll
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\Bingo.pdb
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\Bingo.genruntimeconfig.cache
+C:\Users\12152\Documents\Projects\csharp\Bingo\obj\Debug\net6.0\ref\Bingo.dll

@@ -8,6 +8,8 @@ class Board {
         }
     }
 
+    
+
     public void printBoard(){
         Console.WriteLine("heyyy");
         for(int i = 0; i < 5; i++){

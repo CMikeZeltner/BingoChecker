@@ -8,7 +8,10 @@ class BoardHandler{
         boards = new List<Board>();
         draws = new Draws(setDraws());
         setBoards();
-        //boards[1].printBoard();
+    }
+
+    public void gameLoop(){
+
     }
 
     public void setBoards(){
@@ -32,39 +35,31 @@ class BoardHandler{
                  
             }
             sr.Close();
-
-            foreach(Board b in boards){
-                b.printBoard();
-            }
- 
-
-
     }
 
 
-    public int[] setDraws(){
-        string line;
+    public List<int> setDraws(){
+        string line = "";
         string appendedLine = "";
-        while((line = sr.ReadLine()) != "")
-        {
+        List<int> drawList = new List<int>();
+        
+        while((line = sr.ReadLine()) != ""){
             appendedLine += line;
-
         }
+
         
         int[] drawArray = appendedLine.Split(',').Select(int.Parse).ToArray();
-        
 
-        return drawArray;
-        
-    }
-
-    public void Chuck(){
-        string line;
-        while((line = sr.ReadLine()) != null)
-        {
-            System.Console.WriteLine(line);
-
+        foreach(int num in drawArray){
+            drawList.Add(num);
         }
+
+
+
+
+        return drawList;
+        
     }
+
 
 }
